@@ -122,11 +122,15 @@ body {
     font-family: Arial, sans-serif;
     color: #1F2937;
     background: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .quote-text, .quote-author {
     padding: 40px;
     text-align: center;
+    width: 600px;
 }
 
 .action-container {
