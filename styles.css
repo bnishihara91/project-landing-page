@@ -134,7 +134,8 @@ body {
 }
 
 .action-box {
-    border: 10px solid black;
     display: flex;
     justify-content: space-between;
+    background: #3882F6;
+    color: white;
 }
