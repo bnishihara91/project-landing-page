@@ -49,6 +49,10 @@ body {
     flex-direction: column;
 }
 
+.hero-text-container div {
+    padding: 5px;
+}
+
 .hero-main-text {
     font-size: 48px;
     font-weight: bold;
