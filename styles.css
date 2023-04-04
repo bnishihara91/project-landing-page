@@ -93,10 +93,20 @@ body {
 .information-boxes {
     display: flex;
     padding: 100px;
+    justify-content: space-between;
+   
 }
+
 
 .information-button button {
     padding: 55px;
     border: 5px solid #3882F6;
     border-radius: 8px;
+}
+
+.information-box {
+    padding: 50px;
+}
+.information-button-text {
+    width: 100px;
 }
