@@ -2,12 +2,35 @@ body {
     width: 100%;
     min-height: 100vh;
     font-family: roboto, sans-serif;
- 
+    display: flex;
+    flex-direction: column;
 }
 
-.header {
+.header-container {
     background-color: #1F2937;
     display: flex;
     color: white;
-    padding: 20px;
+    padding: 10px;
+    justify-content: space-between;
+
+}
+
+.header-logo {
+    padding: 10px;
+    align-items: center;
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-top: 5px;
+}
+
+.header-links-container {
+   padding: 10px;
+   display: flex;
+   justify-content: space-between;
+}
+
+.header-link-one,
+.header-link-two,
+.header-link-three {
+    padding: 10px;
 }
