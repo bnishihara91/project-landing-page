@@ -46,3 +46,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
