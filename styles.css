@@ -138,4 +138,9 @@ body {
     justify-content: space-between;
     background: #3882F6;
     color: white;
+    padding: 40px;
+}
+
+.action-header {
+    font-weight: bold;
 }
