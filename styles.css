@@ -133,6 +133,11 @@ body {
     width: 600px;
 }
 
+.quote-author{
+    font-size: 24px;
+    margin-top: -70px;
+}
+
 .action-container {
     padding: 80px;
     display: flex;
@@ -167,3 +172,4 @@ body {
     padding: 30px;
     justify-content: center;
 }
+
