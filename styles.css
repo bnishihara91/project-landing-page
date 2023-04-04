@@ -94,3 +94,9 @@ body {
     display: flex;
     padding: 100px;
 }
+
+.information-button button {
+    padding: 55px;
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+}
