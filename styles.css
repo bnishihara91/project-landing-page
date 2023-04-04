@@ -77,3 +77,9 @@ body {
     border: none;
     padding: 5px 20px;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2938;
+}
