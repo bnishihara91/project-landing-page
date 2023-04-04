@@ -128,3 +128,13 @@ body {
     padding: 40px;
     text-align: center;
 }
+
+.action-container {
+    padding: 80px;
+}
+
+.action-box {
+    border: 10px solid black;
+    display: flex;
+    justify-content: space-between;
+}
