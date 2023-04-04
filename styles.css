@@ -116,3 +116,10 @@ body {
     text-align: center;
     padding: 7px;
 }
+
+.quote-container {
+    font-size: 36px;
+    font-family: italic;
+    color: #1F2937;
+    background: #E5E7EB;
+}
