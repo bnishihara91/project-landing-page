@@ -33,6 +33,7 @@ body {
 .header-link-two,
 .header-link-three {
     padding: 10px;
+    font-size: 18px #E5E7EB;
 }
 
 .hero-container {
@@ -51,4 +52,8 @@ body {
     font-size: 48px;
     font-weight: bold;
     color: #F9FAF8;
+}
+
+.hero-secondary-text {
+    font-size: 18px #E5E7EB;
 }
