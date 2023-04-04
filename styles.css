@@ -123,3 +123,8 @@ body {
     color: #1F2937;
     background: #E5E7EB;
 }
+
+.quote-text, .quote-author {
+    padding: 40px;
+    text-align: center;
+}
