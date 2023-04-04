@@ -57,3 +57,8 @@ body {
 .hero-secondary-text {
     font-size: 18px #E5E7EB;
 }
+
+.hero-image img {
+  width: 150px;
+  height: 150px;
+}
