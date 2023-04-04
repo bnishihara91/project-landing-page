@@ -34,3 +34,10 @@ body {
 .header-link-three {
     padding: 10px;
 }
+
+.hero-container {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    padding: 50px 10px;
+}
