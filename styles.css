@@ -82,6 +82,7 @@ body {
    display: flex;
    flex-direction: column;
    align-items: center;
+   
 }
 
 .information-header {
@@ -89,13 +90,14 @@ body {
     font-weight: bold;
     color: #1F2938;
     padding: 40px;
+
 }
 
 .information-boxes {
     display: flex;
-    padding: 100px;
+    padding: 0px;
     justify-content: space-between;
-   
+ 
 }
 
 
@@ -108,6 +110,9 @@ body {
 .information-box {
     padding: 50px;
 }
+
 .information-button-text {
     width: 100px;
+    text-align: center;
+    padding: 7px;
 }
