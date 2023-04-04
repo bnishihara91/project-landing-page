@@ -41,7 +41,7 @@ body {
     background-color: #1F2937;
     color: white;
     padding: 50px 10px;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .hero-text-container {
