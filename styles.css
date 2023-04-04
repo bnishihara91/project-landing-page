@@ -11,7 +11,7 @@ body {
     display: flex;
     color: white;
     padding: 10px;
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
 
