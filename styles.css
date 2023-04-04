@@ -65,3 +65,11 @@ body {
   width: 150px;
   height: 150px;
 }
+
+.sign-up button {
+    color: white;
+    background: rgb(37, 133, 236);
+    border-radius: 4px;
+    border: none;
+    padding: 5px 20px;
+}
