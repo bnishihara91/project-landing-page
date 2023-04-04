@@ -131,6 +131,8 @@ body {
 
 .action-container {
     padding: 80px;
+    display: flex;
+    justify-content: center;
 }
 
 .action-box {
@@ -139,6 +141,7 @@ body {
     background: #3882F6;
     color: white;
     padding: 40px;
+    width: 1000px;
 }
 
 .action-header {
