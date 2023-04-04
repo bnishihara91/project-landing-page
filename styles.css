@@ -144,3 +144,11 @@ body {
 .action-header {
     font-weight: bold;
 }
+
+.action-sign-up button {
+    background: #3882F6;
+    border: 1px solid white;
+    color: white;
+    border-radius: 4px;
+    padding: 2px 10px;
+}
