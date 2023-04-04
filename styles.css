@@ -41,3 +41,8 @@ body {
     color: white;
     padding: 50px 10px;
 }
+
+.hero-text-container {
+    display: flex;
+    flex-direction: column;
+}
